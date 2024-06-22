@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Rafaelmacha![gcm-banner]()
+- 👋 Hi, I’m @Rafaelmacha![gcm-banner]![20211212_133442](https://github.com/RafaelmachadoDS2/RafaelmachadoDS2/assets/172992191/adfb7b9f-c26c-4ed6-aa7e-c2c93a68b0bb)
+()
 doDS2
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
